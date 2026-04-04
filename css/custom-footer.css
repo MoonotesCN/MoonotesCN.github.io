@@ -1,0 +1,107 @@
+/* 自定义页脚样式：用于 footer.custom_text 的布局与配色 */
+
+/* 让页脚背景接近参考图的浅灰色，并与页面主体区分 */
+#footer {
+  background: #eef3f7 !important;
+}
+
+/* Butterfly 的页脚内容容器一般在 #footer-wrap 内 */
+#footer #footer-wrap {
+  background: #eef3f7 !important;
+  padding-top: 28px;
+  padding-bottom: 28px;
+}
+
+/* 有些版本会在页脚加遮罩层/伪元素，这里一并覆盖 */
+#footer::before,
+#footer::after {
+  background: transparent !important;
+}
+
+/* 自定义区块整体 */
+#footer .moon-footer {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 18px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+/* 顶部版权区 */
+#footer .moon-footer__copyright {
+  text-align: center;
+  line-height: 1.8;
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+/* 四列链接区 */
+#footer .moon-footer__cols {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(140px, 1fr));
+  gap: 36px;
+  justify-content: center;
+  align-items: start;
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+#footer .moon-footer__colTitle {
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.75);
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#footer .moon-footer__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+#footer .moon-footer__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+#footer .moon-footer__icon {
+  width: 18px;
+  text-align: center;
+  color: #409eff;
+  opacity: 0.95;
+}
+
+#footer .moon-footer__link {
+  color: #409eff !important;
+  text-decoration: none !important;
+  font-size: 14px;
+}
+
+#footer .moon-footer__link:hover {
+  text-decoration: underline !important;
+  opacity: 0.9;
+}
+
+/* 移动端：改为两列/一列 */
+@media (max-width: 900px) {
+  #footer .moon-footer__cols {
+    grid-template-columns: repeat(2, minmax(140px, 1fr));
+    gap: 24px;
+  }
+}
+
+@media (max-width: 520px) {
+  #footer .moon-footer__cols {
+    grid-template-columns: 1fr;
+  }
+  #footer .moon-footer__item {
+    justify-content: flex-start;
+  }
+  #footer .moon-footer__colTitle {
+    text-align: left;
+  }
+}
+
