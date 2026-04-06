@@ -11,7 +11,7 @@
   <rights>All rights reserved 2026, Wong MooN</rights>
   <subtitle>从零开始，探索用户增长与内容运营的实践之路</subtitle>
   <title>MooNotes | 运营成长笔记</title>
-  <updated>2026-04-06T15:34:03.801Z</updated>
+  <updated>2026-04-06T15:43:45.088Z</updated>
   <entry>
     <author>
       <name>Wong MooN</name>
@@ -24,9 +24,9 @@
     <id>https://www.moonotes.cn/articles/b13ee704.html</id>
     <link href="https://www.moonotes.cn/articles/b13ee704.html"/>
     <published>2026-04-05T17:27:38.000Z</published>
-    <summary>从零开始学运营系列Day 1，系统性解析用户运营的定义、三大核心价值（降低获客成本、提升LTV、构建用户资产）、主要职责与学习路径，结合拼多多、Netflix、小红书等实战案例，为零基础学习者建立完整知识框架。</summary>
+    <summary>从零开始学运营系列Day 1，解析用户运营定义、核心价值（降低获客成本、提升LTV、构建用户资产）、主要职责与学习路径，结合拼多多、Netflix、小红书等实战案例，为零基础学习者建立完整知识框架。</summary>
     <title>从零开始学运营 | Day 1：用户运营的定义与核心价值</title>
-    <updated>2026-04-06T15:34:03.801Z</updated>
+    <updated>2026-04-06T15:43:45.088Z</updated>
   </entry>
   <entry>
     <author>
@@ -58,9 +58,9 @@
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
     <published>2025-02-10T20:02:06.000Z</published>
-    <summary>从零开始全面对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点，以及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
+    <summary>对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
     <title>Google SEO与百度SEO学习指南：双引擎优化的核心差异与实战策略</title>
-    <updated>2026-04-06T15:39:29.972Z</updated>
+    <updated>2026-04-06T15:45:02.730Z</updated>
   </entry>
   <entry>
     <author>
@@ -76,9 +76,9 @@
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
     <published>2025-02-10T20:02:06.000Z</published>
-    <summary>深度解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型（内容生态、技术优化、外链建设）及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
+    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
     <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
-    <updated>2026-04-06T15:39:45.209Z</updated>
+    <updated>2026-04-06T15:45:21.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -101,12 +101,15 @@
     </author>
     <category term="hexo博客" scheme="https://www.moonotes.cn/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     <category term="hexo博客" scheme="https://www.moonotes.cn/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客搭建" scheme="https://www.moonotes.cn/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="阿里云服务器" scheme="https://www.moonotes.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="部署教程" scheme="https://www.moonotes.cn/tags/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"/>
     <id>https://www.moonotes.cn/articles/26649.html</id>
     <link href="https://www.moonotes.cn/articles/26649.html"/>
     <published>2025-01-19T12:24:49.000Z</published>
-    <summary>这是一篇利用hexo进行博客搭建并部署到阿里云服务器的保姆级教程</summary>
+    <summary>详细的hexo博客搭建与阿里云服务器部署教程，包括环境配置、主题安装、SSH密钥设置、Git仓库配置、Nginx部署等完整步骤，适合新手从零开始搭建个人博客。</summary>
     <title>利用hexo进行博客搭建并部署到阿里云服务器(保姆级教程)</title>
-    <updated>2025-02-17T11:13:00.000Z</updated>
+    <updated>2026-04-06T15:41:34.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -136,9 +139,9 @@
     <id>https://www.moonotes.cn/articles/88401b94.html</id>
     <link href="https://www.moonotes.cn/articles/88401b94.html"/>
     <published>2023-12-07T01:43:48.000Z</published>
-    <summary>深入解析运营的定义与本质，对比传统产品与互联网产品的价值构成，分析运营工作的核心内容（拉新、引流、转化、用户维系）及完整工作流程，帮助读者建立对运营的系统性认知。</summary>
+    <summary>解析运营的定义与本质，对比传统产品与互联网产品的价值构成，分析运营工作核心内容（拉新、引流、转化、用户维系）及完整工作流程，帮助读者建立对运营的系统性认知。</summary>
     <title>运营是什么？如何理解运营？互联网运营的本质与工作流程</title>
-    <updated>2026-04-06T15:36:55.169Z</updated>
+    <updated>2026-04-06T15:44:37.141Z</updated>
   </entry>
   <entry>
     <author>
@@ -152,9 +155,9 @@
     <id>https://www.moonotes.cn/articles/cc62661b.html</id>
     <link href="https://www.moonotes.cn/articles/cc62661b.html"/>
     <published>2023-11-04T18:25:48.000Z</published>
-    <summary>全面解析互联网运营岗位的分类与职责，包括经典4大运营模块（内容、用户、活动、产品）、特殊运营岗位（新媒体、SEO/SEM、广告投放等）以及不同业务类型产品的运营差异，帮助读者了解运营体系的全貌。</summary>
+    <summary>解析互联网运营岗位分类与职责，包括4大运营模块（内容、用户、活动、产品）、特殊运营岗位（新媒体、SEO/SEM、广告投放等）及不同业务类型产品的运营差异，帮助读者了解运营体系全貌。</summary>
     <title>五花八门的运营岗位：全面解析互联网运营分类与职责</title>
-    <updated>2026-04-06T15:35:56.479Z</updated>
+    <updated>2026-04-06T15:44:09.415Z</updated>
   </entry>
   <entry>
     <author>
@@ -162,14 +165,15 @@
     </author>
     <category term="知识框架" scheme="https://www.moonotes.cn/categories/%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
+    <category term="运营岗位" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%B2%97%E4%BD%8D/"/>
+    <category term="运营分类" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%88%86%E7%B1%BB/"/>
+    <category term="职场规划" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%A7%84%E5%88%92/"/>
     <id>https://www.moonotes.cn/articles/18726.html</id>
     <link href="https://www.moonotes.cn/articles/18726.html"/>
     <published>2023-07-25T04:59:33.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="运营岗位的种类有哪些？"><a href="#运营岗位的种类有哪些？" class="headerlink"]]>
-    </summary>
-    <title>运营岗位的种类有哪些？</title>
-    <updated>2025-02-17T11:14:41.000Z</updated>
+    <summary>介绍互联网运营的主要岗位分类，包括内容运营、用户运营、活动运营、产品运营、社群运营、新媒体运营、短视频运营、SEO/SEM运营、电商运营等，说明各岗位职责与工作内容。</summary>
+    <title>运营岗位的种类有哪些？互联网运营岗位分类与职责详解</title>
+    <updated>2026-04-06T15:45:46.498Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,12 +181,15 @@
     </author>
     <category term="知识框架" scheme="https://www.moonotes.cn/categories/%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
+    <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
+    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
+    <category term="运营趋势" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%B6%8B%E5%8A%BF/"/>
     <id>https://www.moonotes.cn/articles/42822.html</id>
     <link href="https://www.moonotes.cn/articles/42822.html"/>
     <published>2023-07-25T04:59:14.000Z</published>
-    <summary>随着互联网的快速发展，运营已成为企业成功的关键因素之一。那么，什么是运营？它的意义是什么？未来又有哪些发展趋势？</summary>
-    <title>你是否了解运营呢？</title>
-    <updated>2025-02-17T11:14:15.000Z</updated>
+    <summary>解析运营的定义、核心意义及未来发展趋势，包括数据驱动、社交媒体营销、个性化推荐、跨界合作等方向，帮助读者了解运营在企业发展中的重要作用。</summary>
+    <title>你是否了解运营呢？运营的定义、意义与未来趋势</title>
+    <updated>2026-04-06T15:46:01.131Z</updated>
   </entry>
   <entry>
     <author>
@@ -190,11 +197,15 @@
     </author>
     <category term="知识框架" scheme="https://www.moonotes.cn/categories/%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
+    <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
+    <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="职业转型" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E4%B8%9A%E8%BD%AC%E5%9E%8B/"/>
+    <category term="职场故事" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E6%95%85%E4%BA%8B/"/>
     <id>https://www.moonotes.cn/articles/58223.html</id>
     <link href="https://www.moonotes.cn/articles/58223.html"/>
     <published>2023-07-25T04:58:25.000Z</published>
-    <summary>简单的介绍了自己学运营前的状态，以及在什么情况下了解到运营，并决定从SEO转型到互联网运营中。</summary>
-    <title>你为什么选择做运营？</title>
-    <updated>2025-02-17T11:14:32.000Z</updated>
+    <summary>分享作者从6年SEO经验转型到互联网运营的经历，包括转型原因、学习过程以及对用户运营和用户增长的专注，探讨运营职业选择的思考路径。</summary>
+    <title>你为什么选择做运营？从SEO到互联网运营的转型之路</title>
+    <updated>2026-04-06T15:42:10.571Z</updated>
   </entry>
 </feed>
