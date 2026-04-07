@@ -3739,12 +3739,15 @@ figure.highlight pre .javascript .function {
     transition: top 0.3s;
   }
 }
-#aside-content .card-tag-cloud a {
+#aside-content .card-tag-cloud,
+#aside-content a {
   display: inline-block;
   padding: 0 4px;
   line-height: 1.8;
+  font-size: 0.85em;
 }
-#aside-content .card-tag-cloud a:hover {
+#aside-content .card-tag-cloud:hover,
+#aside-content a:hover {
   color: #49b1f5 !important;
 }
 #aside-content .aside-list > span {

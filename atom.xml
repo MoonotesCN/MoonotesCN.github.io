@@ -11,7 +11,17 @@
   <rights>All rights reserved 2026, Wong MooN</rights>
   <subtitle>从零开始，探索用户增长与内容运营的实践之路</subtitle>
   <title>MooNotes | 运营成长笔记</title>
-  <updated>2026-04-07T13:49:01.692Z</updated>
+  <updated>2026-04-07T17:01:08.844Z</updated>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <id>https://www.moonotes.cn/articles/140ab620.html</id>
+    <link href="https://www.moonotes.cn/articles/140ab620.html"/>
+    <published>2026-04-07T17:01:08.000Z</published>
+    <title>page</title>
+    <updated>2026-04-07T17:01:08.844Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Wong MooN</name>
@@ -134,8 +144,8 @@
     <category term="运营之光" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%B9%8B%E5%85%89/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="运营之光" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%B9%8B%E5%85%89/"/>
-    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营与市场" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%B8%8E%E5%B8%82%E5%9C%BA/"/>
+    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <id>https://www.moonotes.cn/articles/ef2ea506.html</id>
     <link href="https://www.moonotes.cn/articles/ef2ea506.html"/>
     <published>2023-12-14T01:00:11.000Z</published>
@@ -197,9 +207,9 @@
     </author>
     <category term="知识框架" scheme="https://www.moonotes.cn/categories/%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
+    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
     <category term="运营趋势" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%B6%8B%E5%8A%BF/"/>
-    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <id>https://www.moonotes.cn/articles/42822.html</id>
     <link href="https://www.moonotes.cn/articles/42822.html"/>
     <published>2023-07-25T04:59:14.000Z</published>
