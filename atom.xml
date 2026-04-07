@@ -113,7 +113,7 @@
     <author>
       <name>Wong MooN</name>
     </author>
-    <category term="hexo博客" scheme="https://www.moonotes.cn/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="碎片思考" scheme="https://www.moonotes.cn/categories/%E7%A2%8E%E7%89%87%E6%80%9D%E8%80%83/"/>
     <category term="hexo博客" scheme="https://www.moonotes.cn/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
     <category term="博客搭建" scheme="https://www.moonotes.cn/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <category term="阿里云服务器" scheme="https://www.moonotes.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
@@ -123,7 +123,7 @@
     <published>2025-01-19T12:24:49.000Z</published>
     <summary>详细的hexo博客搭建与阿里云服务器部署教程，包括环境配置、主题安装、SSH密钥设置、Git仓库配置、Nginx部署等完整步骤，适合新手从零开始搭建个人博客。</summary>
     <title>利用hexo进行博客搭建并部署到阿里云服务器(保姆级教程)</title>
-    <updated>2026-04-06T15:58:56.742Z</updated>
+    <updated>2026-04-07T17:18:58.711Z</updated>
   </entry>
   <entry>
     <author>
@@ -195,8 +195,8 @@
     </author>
     <category term="知识框架" scheme="https://www.moonotes.cn/categories/%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
     <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
+    <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
     <category term="运营趋势" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%B6%8B%E5%8A%BF/"/>
     <id>https://www.moonotes.cn/articles/42822.html</id>
     <link href="https://www.moonotes.cn/articles/42822.html"/>
