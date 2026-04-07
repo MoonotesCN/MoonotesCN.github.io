@@ -67,15 +67,15 @@
     <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
-    <category term="Google SEO" scheme="https://www.moonotes.cn/tags/Google-SEO/"/>
+    <category term="算法演进" scheme="https://www.moonotes.cn/tags/%E7%AE%97%E6%B3%95%E6%BC%94%E8%BF%9B/"/>
+    <category term="实战策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5/"/>
     <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
-    <category term="双引擎优化" scheme="https://www.moonotes.cn/tags/%E5%8F%8C%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
     <published>2025-02-10T20:02:06.000Z</published>
-    <summary>对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
-    <title>Google SEO与百度SEO学习指南：双引擎优化的核心差异与实战策略</title>
-    <updated>2026-04-07T17:17:08.646Z</updated>
+    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
+    <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
+    <updated>2026-04-07T17:18:10.273Z</updated>
   </entry>
   <entry>
     <author>
@@ -85,14 +85,14 @@
     <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
     <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
-    <category term="算法演进" scheme="https://www.moonotes.cn/tags/%E7%AE%97%E6%B3%95%E6%BC%94%E8%BF%9B/"/>
-    <category term="实战策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5/"/>
+    <category term="Google SEO" scheme="https://www.moonotes.cn/tags/Google-SEO/"/>
+    <category term="双引擎优化" scheme="https://www.moonotes.cn/tags/%E5%8F%8C%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
     <published>2025-02-10T20:02:06.000Z</published>
-    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
-    <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
-    <updated>2026-04-07T17:18:10.273Z</updated>
+    <summary>对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
+    <title>Google SEO与百度SEO学习指南：双引擎优化的核心差异与实战策略</title>
+    <updated>2026-04-07T17:17:08.646Z</updated>
   </entry>
   <entry>
     <author>
@@ -193,7 +193,7 @@
     <author>
       <name>Wong MooN</name>
     </author>
-    <category term="知识框架" scheme="https://www.moonotes.cn/categories/%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6/"/>
+    <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
@@ -203,7 +203,7 @@
     <published>2023-07-25T04:59:14.000Z</published>
     <summary>解析运营的定义、核心意义及未来发展趋势，包括数据驱动、社交媒体营销、个性化推荐、跨界合作等方向，帮助读者了解运营在企业发展中的重要作用。</summary>
     <title>你是否了解运营呢？运营的定义、意义与未来趋势</title>
-    <updated>2026-04-06T15:59:40.722Z</updated>
+    <updated>2026-04-07T17:20:49.913Z</updated>
   </entry>
   <entry>
     <author>
