@@ -18,10 +18,10 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户管理" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <id>https://www.moonotes.cn/articles/bc57d508.html</id>
     <link href="https://www.moonotes.cn/articles/bc57d508.html"/>
@@ -35,8 +35,8 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
+    <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
     <category term="运营模型" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A8%A1%E5%9E%8B/"/>
     <category term="海盗指标" scheme="https://www.moonotes.cn/tags/%E6%B5%B7%E7%9B%97%E6%8C%87%E6%A0%87/"/>
     <id>https://www.moonotes.cn/articles/f752cf82.html</id>
@@ -85,25 +85,8 @@
     <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
-    <category term="算法演进" scheme="https://www.moonotes.cn/tags/%E7%AE%97%E6%B3%95%E6%BC%94%E8%BF%9B/"/>
-    <category term="实战策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5/"/>
-    <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
-    <id>https://www.moonotes.cn/articles/58758.html</id>
-    <link href="https://www.moonotes.cn/articles/58758.html"/>
-    <published>2025-02-10T20:02:06.000Z</published>
-    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
-    <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
-    <updated>2026-04-09T17:10:51.731Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Wong MooN</name>
-    </author>
-    <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
-    <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
-    <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
-    <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
     <category term="Google SEO" scheme="https://www.moonotes.cn/tags/Google-SEO/"/>
+    <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
     <category term="双引擎优化" scheme="https://www.moonotes.cn/tags/%E5%8F%8C%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
@@ -117,9 +100,26 @@
       <name>Wong MooN</name>
     </author>
     <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
-    <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
     <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
+    <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
+    <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
+    <category term="算法演进" scheme="https://www.moonotes.cn/tags/%E7%AE%97%E6%B3%95%E6%BC%94%E8%BF%9B/"/>
+    <category term="实战策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5/"/>
+    <id>https://www.moonotes.cn/articles/58758.html</id>
+    <link href="https://www.moonotes.cn/articles/58758.html"/>
+    <published>2025-02-10T20:02:06.000Z</published>
+    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
+    <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
+    <updated>2026-04-09T17:10:51.731Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
+    <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
     <category term="小红书" scheme="https://www.moonotes.cn/tags/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
+    <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <id>https://www.moonotes.cn/articles/30056.html</id>
     <link href="https://www.moonotes.cn/articles/30056.html"/>
     <published>2025-01-25T18:29:57.000Z</published>
@@ -141,7 +141,7 @@
     <published>2025-01-19T12:24:49.000Z</published>
     <summary>详细的hexo博客搭建与阿里云服务器部署教程，包括环境配置、主题安装、SSH密钥设置、Git仓库配置、Nginx部署等完整步骤，适合新手从零开始搭建个人博客。</summary>
     <title>利用hexo进行博客搭建并部署到阿里云服务器(保姆级教程)</title>
-    <updated>2026-04-07T17:18:58.711Z</updated>
+    <updated>2026-04-09T17:22:42.567Z</updated>
   </entry>
   <entry>
     <author>
@@ -157,7 +157,7 @@
     <published>2023-12-14T01:00:11.000Z</published>
     <summary>通过四个不同规模互联网公司的案例分析，对比运营与市场部门的职责差异，探讨运营的务实性与市场的务虚性，帮助读者理解互联网公司中运营与市场的区别与联系。</summary>
     <title>在互联网公司内，“运营”与“市场”的区别与联系</title>
-    <updated>2026-04-09T16:56:43.834Z</updated>
+    <updated>2026-04-09T17:22:39.912Z</updated>
   </entry>
   <entry>
     <author>
@@ -173,7 +173,7 @@
     <published>2023-12-07T01:43:48.000Z</published>
     <summary>解析运营的定义与本质，对比传统产品与互联网产品的价值构成，分析运营工作核心内容（拉新、引流、转化、用户维系）及完整工作流程，帮助读者建立对运营的系统性认知。</summary>
     <title>运营是什么？如何理解运营？互联网运营的本质与工作流程</title>
-    <updated>2026-04-09T16:56:43.845Z</updated>
+    <updated>2026-04-09T17:22:40.505Z</updated>
   </entry>
   <entry>
     <author>
@@ -205,7 +205,7 @@
     <published>2023-07-25T04:59:33.000Z</published>
     <summary>介绍互联网运营的主要岗位分类，包括内容运营、用户运营、活动运营、产品运营、社群运营、新媒体运营、短视频运营、SEO/SEM运营、电商运营等，说明各岗位职责与工作内容。</summary>
     <title>运营岗位的种类有哪些？互联网运营岗位分类与职责详解</title>
-    <updated>2026-04-09T16:56:43.984Z</updated>
+    <updated>2026-04-09T17:22:43.751Z</updated>
   </entry>
   <entry>
     <author>
@@ -213,8 +213,8 @@
     </author>
     <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
     <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
+    <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
     <category term="运营趋势" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%B6%8B%E5%8A%BF/"/>
     <id>https://www.moonotes.cn/articles/42822.html</id>
     <link href="https://www.moonotes.cn/articles/42822.html"/>
@@ -238,6 +238,6 @@
     <published>2023-07-25T04:58:25.000Z</published>
     <summary>分享作者从6年SEO经验转型到互联网运营的经历，包括转型原因、学习过程以及对用户运营和用户增长的专注，探讨运营职业选择的思考路径。</summary>
     <title>你为什么选择做运营？从SEO到互联网运营的转型之路</title>
-    <updated>2026-04-07T17:17:36.204Z</updated>
+    <updated>2026-04-09T17:22:42.792Z</updated>
   </entry>
 </feed>
