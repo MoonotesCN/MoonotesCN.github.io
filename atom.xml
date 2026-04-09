@@ -42,7 +42,7 @@
     <published>2026-04-05T17:27:38.000Z</published>
     <summary>从零开始学运营系列Day 1，解析用户运营定义、核心价值（降低获客成本、提升LTV、构建用户资产）、主要职责与学习路径，结合拼多多、Netflix、小红书等实战案例，为零基础学习者建立完整知识框架。</summary>
     <title>从零开始学运营 | Day 1：用户运营的定义与核心价值</title>
-    <updated>2026-04-06T16:54:37.516Z</updated>
+    <updated>2026-04-07T18:44:48.374Z</updated>
   </entry>
   <entry>
     <author>
@@ -67,15 +67,15 @@
     <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
-    <category term="算法演进" scheme="https://www.moonotes.cn/tags/%E7%AE%97%E6%B3%95%E6%BC%94%E8%BF%9B/"/>
-    <category term="实战策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5/"/>
+    <category term="Google SEO" scheme="https://www.moonotes.cn/tags/Google-SEO/"/>
     <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
+    <category term="双引擎优化" scheme="https://www.moonotes.cn/tags/%E5%8F%8C%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
     <published>2025-02-10T20:02:06.000Z</published>
-    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
-    <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
-    <updated>2026-04-07T17:18:10.273Z</updated>
+    <summary>对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
+    <title>Google SEO与百度SEO学习指南：双引擎优化的核心差异与实战策略</title>
+    <updated>2026-04-07T17:17:08.646Z</updated>
   </entry>
   <entry>
     <author>
@@ -85,14 +85,14 @@
     <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="百度算法" scheme="https://www.moonotes.cn/tags/%E7%99%BE%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
     <category term="搜索引擎优化" scheme="https://www.moonotes.cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
-    <category term="Google SEO" scheme="https://www.moonotes.cn/tags/Google-SEO/"/>
-    <category term="双引擎优化" scheme="https://www.moonotes.cn/tags/%E5%8F%8C%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96/"/>
+    <category term="算法演进" scheme="https://www.moonotes.cn/tags/%E7%AE%97%E6%B3%95%E6%BC%94%E8%BF%9B/"/>
+    <category term="实战策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5/"/>
     <id>https://www.moonotes.cn/articles/58757.html</id>
     <link href="https://www.moonotes.cn/articles/58757.html"/>
     <published>2025-02-10T20:02:06.000Z</published>
-    <summary>对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
-    <title>Google SEO与百度SEO学习指南：双引擎优化的核心差异与实战策略</title>
-    <updated>2026-04-07T17:17:08.646Z</updated>
+    <summary>解析百度算法二十年发展历程（超链时代、质量觉醒期、智能转型期），分析核心算法机制、排名影响因素，提供SEO优化三维模型及多引擎对比策略，帮助从业者掌握与时俱进的优化方法。</summary>
+    <title>从百度算法演进看 SEO 优化策略：二十年变迁与实战指南</title>
+    <updated>2026-04-07T17:18:10.273Z</updated>
   </entry>
   <entry>
     <author>
@@ -139,7 +139,7 @@
     <published>2023-12-14T01:00:11.000Z</published>
     <summary>通过四个不同规模互联网公司的案例分析，对比运营与市场部门的职责差异，探讨运营的务实性与市场的务虚性，帮助读者理解互联网公司中运营与市场的区别与联系。</summary>
     <title>在互联网公司内，“运营”与“市场”的区别与联系</title>
-    <updated>2026-04-06T15:57:12.599Z</updated>
+    <updated>2026-04-07T18:51:06.149Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +155,7 @@
     <published>2023-12-07T01:43:48.000Z</published>
     <summary>解析运营的定义与本质，对比传统产品与互联网产品的价值构成，分析运营工作核心内容（拉新、引流、转化、用户维系）及完整工作流程，帮助读者建立对运营的系统性认知。</summary>
     <title>运营是什么？如何理解运营？互联网运营的本质与工作流程</title>
-    <updated>2026-04-06T15:57:34.087Z</updated>
+    <updated>2026-04-07T18:50:24.903Z</updated>
   </entry>
   <entry>
     <author>
@@ -171,7 +171,7 @@
     <published>2023-11-04T18:25:48.000Z</published>
     <summary>解析互联网运营岗位分类与职责，包括4大运营模块（内容、用户、活动、产品）、特殊运营岗位（新媒体、SEO/SEM、广告投放等）及不同业务类型产品的运营差异，帮助读者了解运营体系全貌。</summary>
     <title>五花八门的运营岗位：全面解析互联网运营分类与职责</title>
-    <updated>2026-04-06T15:56:52.891Z</updated>
+    <updated>2026-04-07T19:25:54.693Z</updated>
   </entry>
   <entry>
     <author>
