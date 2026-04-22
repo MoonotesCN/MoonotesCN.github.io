@@ -18,9 +18,9 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
-    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
-    <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
     <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
+    <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
+    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="标签体系" scheme="https://www.moonotes.cn/tags/%E6%A0%87%E7%AD%BE%E4%BD%93%E7%B3%BB/"/>
     <category term="精准营销" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E5%87%86%E8%90%A5%E9%94%80/"/>
     <category term="产品迭代" scheme="https://www.moonotes.cn/tags/%E4%BA%A7%E5%93%81%E8%BF%AD%E4%BB%A3/"/>
@@ -83,6 +83,7 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="行业案例" scheme="https://www.moonotes.cn/tags/%E8%A1%8C%E4%B8%9A%E6%A1%88%E4%BE%8B/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="病毒式增长" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E5%A2%9E%E9%95%BF/"/>
@@ -91,7 +92,6 @@
     <category term="Dropbox" scheme="https://www.moonotes.cn/tags/Dropbox/"/>
     <category term="美团" scheme="https://www.moonotes.cn/tags/%E7%BE%8E%E5%9B%A2/"/>
     <category term="抖音" scheme="https://www.moonotes.cn/tags/%E6%8A%96%E9%9F%B3/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营案例" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A1%88%E4%BE%8B/"/>
     <id>https://www.moonotes.cn/articles/a4e7d353.html</id>
     <link href="https://www.moonotes.cn/articles/a4e7d353.html"/>
@@ -105,13 +105,13 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
+    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="数据思维" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E6%80%9D%E7%BB%B4/"/>
     <category term="数据分析" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
     <category term="运营指标" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%8C%87%E6%A0%87/"/>
     <category term="漏斗分析" scheme="https://www.moonotes.cn/tags/%E6%BC%8F%E6%96%97%E5%88%86%E6%9E%90/"/>
     <category term="A/B测试" scheme="https://www.moonotes.cn/tags/A-B%E6%B5%8B%E8%AF%95/"/>
-    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
-    <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
     <category term="运营效率" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%95%88%E7%8E%87/"/>
     <id>https://www.moonotes.cn/articles/12345.html</id>
     <link href="https://www.moonotes.cn/articles/12345.html"/>
@@ -160,8 +160,8 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营体系" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="精细化运营" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5/"/>
     <id>https://www.moonotes.cn/articles/b13ee704.html</id>
     <link href="https://www.moonotes.cn/articles/b13ee704.html"/>
@@ -233,7 +233,7 @@
     <published>2025-01-25T18:29:57.000Z</published>
     <summary>深入解析SEO（搜索引擎优化）的定义、核心价值与实践方法，包括如何提升网站流量、转化率、扩大用户池以及建立品牌权威，帮助企业在数字时代实现可持续增长。</summary>
     <title>为什么要做SEO？搜索引擎优化的核心价值与实践指南</title>
-    <updated>2026-04-22T14:41:30.525Z</updated>
+    <updated>2026-04-22T15:01:08.929Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,8 +321,8 @@
     </author>
     <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
+    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营趋势" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%B6%8B%E5%8A%BF/"/>
     <id>https://www.moonotes.cn/articles/42822.html</id>
     <link href="https://www.moonotes.cn/articles/42822.html"/>
@@ -337,8 +337,8 @@
     </author>
     <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
     <category term="职业转型" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E4%B8%9A%E8%BD%AC%E5%9E%8B/"/>
     <category term="职场故事" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E6%95%85%E4%BA%8B/"/>
     <id>https://www.moonotes.cn/articles/58223.html</id>
