@@ -11,15 +11,37 @@
   <rights>All rights reserved 2026, Wong MooN</rights>
   <subtitle>从零开始，探索用户增长与内容运营的实践之路</subtitle>
   <title>MooNotes | 运营成长笔记</title>
-  <updated>2026-04-22T14:43:27.069Z</updated>
+  <updated>2026-04-26T09:29:46.745Z</updated>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
+    <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
+    <category term="实验设计" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E9%AA%8C%E8%AE%BE%E8%AE%A1/"/>
+    <category term="病毒式传播" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E4%BC%A0%E6%92%AD/"/>
+    <category term="裂变活动" scheme="https://www.moonotes.cn/tags/%E8%A3%82%E5%8F%98%E6%B4%BB%E5%8A%A8/"/>
+    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
+    <category term="低成本获客" scheme="https://www.moonotes.cn/tags/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%8E%B7%E5%AE%A2/"/>
+    <category term="病毒系数" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E7%B3%BB%E6%95%B0/"/>
+    <category term="增长实验" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E5%AE%9E%E9%AA%8C/"/>
+    <category term="内容营销" scheme="https://www.moonotes.cn/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/"/>
+    <id>https://www.moonotes.cn/articles/777093b3.html</id>
+    <link href="https://www.moonotes.cn/articles/777093b3.html"/>
+    <published>2026-04-26T09:23:56.000Z</published>
+    <summary>增长黑客是用数据驱动的低成本增长方法，本文系统讲解增长黑客思维与实验设计，包括病毒式传播、内容营销、裂变活动等低成本获客策略，以及实验设计的完整流程。</summary>
+    <title>从零开始学运营：Day9：增长黑客思维与实验设计</title>
+    <updated>2026-04-26T09:29:46.745Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
-    <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
     <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
+    <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
     <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
     <category term="标签体系" scheme="https://www.moonotes.cn/tags/%E6%A0%87%E7%AD%BE%E4%BD%93%E7%B3%BB/"/>
     <category term="精准营销" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E5%87%86%E8%90%A5%E9%94%80/"/>
@@ -41,13 +63,13 @@
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
     <category term="周度复盘" scheme="https://www.moonotes.cn/tags/%E5%91%A8%E5%BA%A6%E5%A4%8D%E7%9B%98/"/>
     <category term="运营测验" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%B5%8B%E9%AA%8C/"/>
     <category term="知识回顾" scheme="https://www.moonotes.cn/tags/%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
     <category term="学习总结" scheme="https://www.moonotes.cn/tags/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
     <category term="运营能力" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%83%BD%E5%8A%9B/"/>
     <category term="知识测验" scheme="https://www.moonotes.cn/tags/%E7%9F%A5%E8%AF%86%E6%B5%8B%E9%AA%8C/"/>
-    <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
     <category term="周度总结" scheme="https://www.moonotes.cn/tags/%E5%91%A8%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     <id>https://www.moonotes.cn/articles/ac6ed455.html</id>
     <link href="https://www.moonotes.cn/articles/ac6ed455.html"/>
@@ -61,11 +83,11 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
     <category term="知识整合" scheme="https://www.moonotes.cn/tags/%E7%9F%A5%E8%AF%86%E6%95%B4%E5%90%88/"/>
     <category term="实战项目" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
     <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
     <category term="问卷设计" scheme="https://www.moonotes.cn/tags/%E9%97%AE%E5%8D%B7%E8%AE%BE%E8%AE%A1/"/>
+    <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
     <category term="知识体系" scheme="https://www.moonotes.cn/tags/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/"/>
     <category term="运营工具" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%B7%A5%E5%85%B7/"/>
     <category term="学习方法" scheme="https://www.moonotes.cn/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
@@ -76,13 +98,14 @@
     <published>2026-04-14T12:47:44.000Z</published>
     <summary>经过五天的系统学习,我们已经建立了用户运营的基础知识框架。本文将对本周知识进行整合梳理,并通过设计一份用户调研问卷,帮助学习者将理论知识转化为实战能力。</summary>
     <title>从零开始学运营 | Day 6：本周知识整合与实战项目启动</title>
-    <updated>2026-04-14T12:59:52.367Z</updated>
+    <updated>2026-04-26T09:29:46.730Z</updated>
   </entry>
   <entry>
     <author>
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="行业案例" scheme="https://www.moonotes.cn/tags/%E8%A1%8C%E4%B8%9A%E6%A1%88%E4%BE%8B/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="病毒式增长" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E5%A2%9E%E9%95%BF/"/>
@@ -91,26 +114,25 @@
     <category term="Dropbox" scheme="https://www.moonotes.cn/tags/Dropbox/"/>
     <category term="美团" scheme="https://www.moonotes.cn/tags/%E7%BE%8E%E5%9B%A2/"/>
     <category term="抖音" scheme="https://www.moonotes.cn/tags/%E6%8A%96%E9%9F%B3/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营案例" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A1%88%E4%BE%8B/"/>
     <id>https://www.moonotes.cn/articles/a4e7d353.html</id>
     <link href="https://www.moonotes.cn/articles/a4e7d353.html"/>
     <published>2026-04-14T12:47:42.000Z</published>
     <summary>行业标杆案例学习是运营人快速成长的关键路径。本文通过深度拆解Dropbox的病毒式增长、美团的激活策略、抖音的留存机制三大经典案例，系统化讲解增长黑客思维在实战中的应用。</summary>
     <title>从零开始学运营 | Day 5：行业标杆案例学习</title>
-    <updated>2026-04-22T14:50:10.697Z</updated>
+    <updated>2026-04-26T09:29:46.541Z</updated>
   </entry>
   <entry>
     <author>
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="数据思维" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E6%80%9D%E7%BB%B4/"/>
     <category term="数据分析" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
     <category term="运营指标" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%8C%87%E6%A0%87/"/>
     <category term="漏斗分析" scheme="https://www.moonotes.cn/tags/%E6%BC%8F%E6%96%97%E5%88%86%E6%9E%90/"/>
     <category term="A/B测试" scheme="https://www.moonotes.cn/tags/A-B%E6%B5%8B%E8%AF%95/"/>
-    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
     <category term="运营效率" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%95%88%E7%8E%87/"/>
     <id>https://www.moonotes.cn/articles/12345.html</id>
@@ -118,7 +140,7 @@
     <published>2026-04-11T19:45:27.000Z</published>
     <summary>数据思维是2025-2026年运营人的核心竞争力之一。本文系统讲解数据思维的定义与价值，涵盖基础数据指标、漏斗分析法和A/B测试，通过实战案例帮助零基础学习者建立用数据驱动运营决策的能力体系。</summary>
     <title>从零开始学运营 | Day 4：数据思维入门</title>
-    <updated>2026-04-22T15:06:45.950Z</updated>
+    <updated>2026-04-26T09:29:46.632Z</updated>
   </entry>
   <entry>
     <author>
@@ -136,7 +158,7 @@
     <published>2026-04-09T16:22:46.000Z</published>
     <summary>本文是&quot;从零开始学运营&quot;系列的第3天内容，详细介绍用户生命周期管理的基础知识，包括生命周期阶段划分、各阶段运营策略和关键指标分析，帮助运营人员建立系统化的用户管理思维。</summary>
     <title>从零开始学运营 | Day 3：用户生命周期管理基础</title>
-    <updated>2026-04-22T15:05:37.317Z</updated>
+    <updated>2026-04-26T09:29:46.675Z</updated>
   </entry>
   <entry>
     <author>
@@ -152,7 +174,7 @@
     <published>2026-04-06T16:48:04.000Z</published>
     <summary>AARRR模型深度解析，包括获取用户、激发活跃、提高留存、增加收入、传播推荐五个环节，结合渠道选择矩阵、关键指标和实践要点，帮助运营从业者掌握用户增长的底层逻辑。</summary>
     <title>从零开始学运营｜Day 2：AARRR模型深度解析</title>
-    <updated>2026-04-14T12:56:20.626Z</updated>
+    <updated>2026-04-26T09:29:46.706Z</updated>
   </entry>
   <entry>
     <author>
@@ -160,15 +182,15 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营体系" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="精细化运营" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5/"/>
     <id>https://www.moonotes.cn/articles/b13ee704.html</id>
     <link href="https://www.moonotes.cn/articles/b13ee704.html"/>
     <published>2026-04-05T17:27:38.000Z</published>
     <summary>从零开始学运营系列Day 1，解析用户运营定义、核心价值（降低获客成本、提升LTV、构建用户资产）、主要职责与学习路径，结合拼多多、Netflix、小红书等实战案例，为零基础学习者建立完整知识框架。</summary>
     <title>从零开始学运营 | Day 1：用户运营的定义与核心价值</title>
-    <updated>2026-04-14T12:56:20.537Z</updated>
+    <updated>2026-04-26T09:29:46.571Z</updated>
   </entry>
   <entry>
     <author>
@@ -233,7 +255,7 @@
     <published>2025-01-25T18:29:57.000Z</published>
     <summary>深入解析SEO（搜索引擎优化）的定义、核心价值与实践方法，包括如何提升网站流量、转化率、扩大用户池以及建立品牌权威，帮助企业在数字时代实现可持续增长。</summary>
     <title>为什么要做SEO？搜索引擎优化的核心价值与实践指南</title>
-    <updated>2026-04-22T15:01:08.929Z</updated>
+    <updated>2026-04-26T09:29:46.648Z</updated>
   </entry>
   <entry>
     <author>
@@ -265,7 +287,7 @@
     <published>2023-12-14T01:00:11.000Z</published>
     <summary>通过四个不同规模互联网公司的案例分析，对比运营与市场部门的职责差异，探讨运营的务实性与市场的务虚性，帮助读者理解互联网公司中运营与市场的区别与联系。</summary>
     <title>在互联网公司内，“运营”与“市场”的区别与联系</title>
-    <updated>2026-04-22T14:57:27.955Z</updated>
+    <updated>2026-04-26T09:29:46.479Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,8 +343,8 @@
     </author>
     <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
+    <category term="职场认知" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%AE%A4%E7%9F%A5/"/>
     <category term="运营趋势" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E8%B6%8B%E5%8A%BF/"/>
     <id>https://www.moonotes.cn/articles/42822.html</id>
     <link href="https://www.moonotes.cn/articles/42822.html"/>
