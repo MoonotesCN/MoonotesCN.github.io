@@ -11,7 +11,29 @@
   <rights>All rights reserved 2026, Wong MooN</rights>
   <subtitle>从零开始，探索用户增长与内容运营的实践之路</subtitle>
   <title>MooNotes | 运营成长笔记</title>
-  <updated>2026-04-26T09:32:08.087Z</updated>
+  <updated>2026-04-27T15:13:23.266Z</updated>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
+    <category term="渠道运营" scheme="https://www.moonotes.cn/tags/%E6%B8%A0%E9%81%93%E8%BF%90%E8%90%A5/"/>
+    <category term="付费获客" scheme="https://www.moonotes.cn/tags/%E4%BB%98%E8%B4%B9%E8%8E%B7%E5%AE%A2/"/>
+    <category term="内容获客" scheme="https://www.moonotes.cn/tags/%E5%86%85%E5%AE%B9%E8%8E%B7%E5%AE%A2/"/>
+    <category term="口碑获客" scheme="https://www.moonotes.cn/tags/%E5%8F%A3%E7%A2%91%E8%8E%B7%E5%AE%A2/"/>
+    <category term="私域流量" scheme="https://www.moonotes.cn/tags/%E7%A7%81%E5%9F%9F%E6%B5%81%E9%87%8F/"/>
+    <category term="流量成本" scheme="https://www.moonotes.cn/tags/%E6%B5%81%E9%87%8F%E6%88%90%E6%9C%AC/"/>
+    <category term="渠道选择" scheme="https://www.moonotes.cn/tags/%E6%B8%A0%E9%81%93%E9%80%89%E6%8B%A9/"/>
+    <category term="获客ROI" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2ROI/"/>
+    <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://www.moonotes.cn/articles/fd853b41.html</id>
+    <link href="https://www.moonotes.cn/articles/fd853b41.html"/>
+    <published>2026-04-27T15:10:37.000Z</published>
+    <summary>获客是AARRR增长模型的第一环，本文系统讲解获客策略的核心框架、主流渠道特点以及实操案例，帮助运营新人建立完整的获客认知体系，应对2025-2026年流量成本攀升、私域流量崛起的市场环境。</summary>
+    <title>从零开始学运营 | Day 10：获客策略与渠道</title>
+    <updated>2026-04-27T15:13:23.266Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Wong MooN</name>
@@ -32,7 +54,7 @@
     <published>2026-04-26T09:23:56.000Z</published>
     <summary>增长黑客是用数据驱动的低成本增长方法，本文系统讲解增长黑客思维与实验设计，包括病毒式传播、内容营销、裂变活动等低成本获客策略，以及实验设计的完整流程。</summary>
     <title>从零开始学运营：Day9：增长黑客思维与实验设计</title>
-    <updated>2026-04-26T09:32:08.087Z</updated>
+    <updated>2026-04-27T15:13:23.618Z</updated>
   </entry>
   <entry>
     <author>
@@ -247,9 +269,9 @@
       <name>Wong MooN</name>
     </author>
     <category term="SEO优化" scheme="https://www.moonotes.cn/categories/SEO%E4%BC%98%E5%8C%96/"/>
+    <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
     <category term="小红书" scheme="https://www.moonotes.cn/tags/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
-    <category term="SEO优化" scheme="https://www.moonotes.cn/tags/SEO%E4%BC%98%E5%8C%96/"/>
     <id>https://www.moonotes.cn/articles/30056.html</id>
     <link href="https://www.moonotes.cn/articles/30056.html"/>
     <published>2025-01-25T18:29:57.000Z</published>
@@ -352,22 +374,5 @@
     <summary>解析运营的定义、核心意义及未来发展趋势，包括数据驱动、社交媒体营销、个性化推荐、跨界合作等方向，帮助读者了解运营在企业发展中的重要作用。</summary>
     <title>你是否了解运营呢？运营的定义、意义与未来趋势</title>
     <updated>2026-04-09T16:56:43.958Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Wong MooN</name>
-    </author>
-    <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="SEO" scheme="https://www.moonotes.cn/tags/SEO/"/>
-    <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="职业转型" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E4%B8%9A%E8%BD%AC%E5%9E%8B/"/>
-    <category term="职场故事" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E6%95%85%E4%BA%8B/"/>
-    <id>https://www.moonotes.cn/articles/58223.html</id>
-    <link href="https://www.moonotes.cn/articles/58223.html"/>
-    <published>2023-07-25T04:58:25.000Z</published>
-    <summary>分享作者从6年SEO经验转型到互联网运营的经历，包括转型原因、学习过程以及对用户运营和用户增长的专注，探讨运营职业选择的思考路径。</summary>
-    <title>你为什么选择做运营？从SEO到互联网运营的转型之路</title>
-    <updated>2026-04-09T17:22:42.792Z</updated>
   </entry>
 </feed>
