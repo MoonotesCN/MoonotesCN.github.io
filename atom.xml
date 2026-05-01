@@ -11,18 +11,84 @@
   <rights>All rights reserved 2026, Wong MooN</rights>
   <subtitle>从零开始，探索用户增长与内容运营的实践之路</subtitle>
   <title>MooNotes | 运营成长笔记</title>
-  <updated>2026-04-28T16:06:43.241Z</updated>
+  <updated>2026-05-01T16:11:43.442Z</updated>
   <entry>
     <author>
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="变现模式" scheme="https://www.moonotes.cn/tags/%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F/"/>
+    <category term="订阅制" scheme="https://www.moonotes.cn/tags/%E8%AE%A2%E9%98%85%E5%88%B6/"/>
+    <category term="广告变现" scheme="https://www.moonotes.cn/tags/%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0/"/>
+    <category term="增值服务" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E5%80%BC%E6%9C%8D%E5%8A%A1/"/>
+    <category term="定价策略" scheme="https://www.moonotes.cn/tags/%E5%AE%9A%E4%BB%B7%E7%AD%96%E7%95%A5/"/>
+    <category term="付费漏斗" scheme="https://www.moonotes.cn/tags/%E4%BB%98%E8%B4%B9%E6%BC%8F%E6%96%97/"/>
+    <category term="变现策略" scheme="https://www.moonotes.cn/tags/%E5%8F%98%E7%8E%B0%E7%AD%96%E7%95%A5/"/>
+    <category term="用户付费" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%98%E8%B4%B9/"/>
+    <category term="LTV" scheme="https://www.moonotes.cn/tags/LTV/"/>
+    <category term="商业模式" scheme="https://www.moonotes.cn/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://www.moonotes.cn/articles/8f8b2d9d.html</id>
+    <link href="https://www.moonotes.cn/articles/8f8b2d9d.html"/>
+    <published>2026-05-01T16:06:19.000Z</published>
+    <summary>变现在AARRR模型中承上启下，本文系统讲解主流变现模式、变现策略设计以及实操方法，帮助运营者建立健康的商业化思维，应对2025年用户付费意愿分化、订阅疲劳加剧的市场环境。</summary>
+    <title>从零开始学运营 | Day 13：变现模式设计</title>
+    <updated>2026-05-01T16:11:43.442Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
+    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
+    <category term="留存分析" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E5%88%86%E6%9E%90/"/>
+    <category term="流失召回" scheme="https://www.moonotes.cn/tags/%E6%B5%81%E5%A4%B1%E5%8F%AC%E5%9B%9E/"/>
+    <category term="习惯培养" scheme="https://www.moonotes.cn/tags/%E4%B9%A0%E6%83%AF%E5%9F%B9%E5%85%BB/"/>
+    <category term="社交绑定" scheme="https://www.moonotes.cn/tags/%E7%A4%BE%E4%BA%A4%E7%BB%91%E5%AE%9A/"/>
+    <category term="留存曲线" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9B%B2%E7%BA%BF/"/>
+    <category term="同期群分析" scheme="https://www.moonotes.cn/tags/%E5%90%8C%E6%9C%9F%E7%BE%A4%E5%88%86%E6%9E%90/"/>
+    <category term="用户粘性" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%B2%98%E6%80%A7/"/>
+    <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
+    <id>https://www.moonotes.cn/articles/c5b5ef60.html</id>
+    <link href="https://www.moonotes.cn/articles/c5b5ef60.html"/>
+    <published>2026-05-01T16:02:53.000Z</published>
+    <summary>留存是AARRR增长模型中最核心的指标，本文系统讲解留存分析框架、留存机制设计以及实操策略，帮助运营者构建可持续的用户关系，应对2025年存量时代的市场竞争。</summary>
+    <title>从零开始学运营 | Day 12：用户留存机制</title>
+    <updated>2026-05-01T16:11:43.246Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
+    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
+    <category term="留存分析" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E5%88%86%E6%9E%90/"/>
+    <category term="流失召回" scheme="https://www.moonotes.cn/tags/%E6%B5%81%E5%A4%B1%E5%8F%AC%E5%9B%9E/"/>
+    <category term="习惯培养" scheme="https://www.moonotes.cn/tags/%E4%B9%A0%E6%83%AF%E5%9F%B9%E5%85%BB/"/>
+    <category term="社交绑定" scheme="https://www.moonotes.cn/tags/%E7%A4%BE%E4%BA%A4%E7%BB%91%E5%AE%9A/"/>
+    <category term="留存曲线" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9B%B2%E7%BA%BF/"/>
+    <category term="同期群分析" scheme="https://www.moonotes.cn/tags/%E5%90%8C%E6%9C%9F%E7%BE%A4%E5%88%86%E6%9E%90/"/>
+    <category term="用户粘性" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%B2%98%E6%80%A7/"/>
+    <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
+    <id>https://www.moonotes.cn/articles/c5b5ef60.html</id>
+    <link href="https://www.moonotes.cn/articles/c5b5ef60.html"/>
+    <published>2026-05-01T16:02:53.000Z</published>
+    <summary>留存是AARRR增长模型中最核心的指标，本文系统讲解留存分析框架、留存机制设计以及实操策略，帮助运营者构建可持续的用户关系，应对2025年存量时代的市场竞争。</summary>
+    <title>从零开始学运营 | Day 12：用户留存机制</title>
+    <updated>2026-05-01T16:11:43.151Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Wong MooN</name>
+    </author>
+    <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
     <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
     <category term="Aha时刻" scheme="https://www.moonotes.cn/tags/Aha%E6%97%B6%E5%88%BB/"/>
     <category term="新手引导" scheme="https://www.moonotes.cn/tags/%E6%96%B0%E6%89%8B%E5%BC%95%E5%AF%BC/"/>
     <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
-    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="激活漏斗" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E6%BC%8F%E6%96%97/"/>
     <category term="激励体系" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E5%8A%B1%E4%BD%93%E7%B3%BB/"/>
     <category term="首触门槛" scheme="https://www.moonotes.cn/tags/%E9%A6%96%E8%A7%A6%E9%97%A8%E6%A7%9B/"/>
@@ -149,15 +215,15 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
     <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="行业案例" scheme="https://www.moonotes.cn/tags/%E8%A1%8C%E4%B8%9A%E6%A1%88%E4%BE%8B/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="病毒式增长" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E5%A2%9E%E9%95%BF/"/>
-    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
     <category term="Dropbox" scheme="https://www.moonotes.cn/tags/Dropbox/"/>
     <category term="美团" scheme="https://www.moonotes.cn/tags/%E7%BE%8E%E5%9B%A2/"/>
     <category term="抖音" scheme="https://www.moonotes.cn/tags/%E6%8A%96%E9%9F%B3/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营案例" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A1%88%E4%BE%8B/"/>
     <id>https://www.moonotes.cn/articles/a4e7d353.html</id>
     <link href="https://www.moonotes.cn/articles/a4e7d353.html"/>
@@ -193,10 +259,10 @@
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户管理" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <id>https://www.moonotes.cn/articles/bc57d508.html</id>
     <link href="https://www.moonotes.cn/articles/bc57d508.html"/>
     <published>2026-04-09T16:22:46.000Z</published>
@@ -209,8 +275,8 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="运营模型" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A8%A1%E5%9E%8B/"/>
     <category term="海盗指标" scheme="https://www.moonotes.cn/tags/%E6%B5%B7%E7%9B%97%E6%8C%87%E6%A0%87/"/>
     <id>https://www.moonotes.cn/articles/f752cf82.html</id>
@@ -226,15 +292,15 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营体系" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="精细化运营" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5/"/>
     <id>https://www.moonotes.cn/articles/b13ee704.html</id>
     <link href="https://www.moonotes.cn/articles/b13ee704.html"/>
     <published>2026-04-05T17:27:38.000Z</published>
     <summary>从零开始学运营系列Day 1，解析用户运营定义、核心价值（降低获客成本、提升LTV、构建用户资产）、主要职责与学习路径，结合拼多多、Netflix、小红书等实战案例，为零基础学习者建立完整知识框架。</summary>
     <title>从零开始学运营 | Day 1：用户运营的定义与核心价值</title>
-    <updated>2026-04-26T09:29:46.571Z</updated>
+    <updated>2026-05-01T16:11:43.477Z</updated>
   </entry>
   <entry>
     <author>
@@ -332,53 +398,5 @@
     <summary>通过四个不同规模互联网公司的案例分析，对比运营与市场部门的职责差异，探讨运营的务实性与市场的务虚性，帮助读者理解互联网公司中运营与市场的区别与联系。</summary>
     <title>在互联网公司内，“运营”与“市场”的区别与联系</title>
     <updated>2026-04-26T09:29:46.479Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Wong MooN</name>
-    </author>
-    <category term="运营之光" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%B9%8B%E5%85%89/"/>
-    <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营之光" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%B9%8B%E5%85%89/"/>
-    <category term="运营定义" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AE%9A%E4%B9%89/"/>
-    <category term="运营流程" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%B5%81%E7%A8%8B/"/>
-    <id>https://www.moonotes.cn/articles/88401b94.html</id>
-    <link href="https://www.moonotes.cn/articles/88401b94.html"/>
-    <published>2023-12-07T01:43:48.000Z</published>
-    <summary>解析运营的定义与本质，对比传统产品与互联网产品的价值构成，分析运营工作核心内容（拉新、引流、转化、用户维系）及完整工作流程，帮助读者建立对运营的系统性认知。</summary>
-    <title>运营是什么？如何理解运营？互联网运营的本质与工作流程</title>
-    <updated>2026-04-09T17:22:40.505Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Wong MooN</name>
-    </author>
-    <category term="运营之光" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%B9%8B%E5%85%89/"/>
-    <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营之光" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%B9%8B%E5%85%89/"/>
-    <category term="运营岗位" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%B2%97%E4%BD%8D/"/>
-    <category term="运营分类" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%88%86%E7%B1%BB/"/>
-    <id>https://www.moonotes.cn/articles/cc62661b.html</id>
-    <link href="https://www.moonotes.cn/articles/cc62661b.html"/>
-    <published>2023-11-04T18:25:48.000Z</published>
-    <summary>解析互联网运营岗位分类与职责，包括4大运营模块（内容、用户、活动、产品）、特殊运营岗位（新媒体、SEO/SEM、广告投放等）及不同业务类型产品的运营差异，帮助读者了解运营体系全貌。</summary>
-    <title>五花八门的运营岗位：全面解析互联网运营分类与职责</title>
-    <updated>2026-04-09T16:56:43.830Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Wong MooN</name>
-    </author>
-    <category term="运营知识" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
-    <category term="运营岗位" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%B2%97%E4%BD%8D/"/>
-    <category term="运营分类" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%88%86%E7%B1%BB/"/>
-    <category term="职场规划" scheme="https://www.moonotes.cn/tags/%E8%81%8C%E5%9C%BA%E8%A7%84%E5%88%92/"/>
-    <id>https://www.moonotes.cn/articles/18726.html</id>
-    <link href="https://www.moonotes.cn/articles/18726.html"/>
-    <published>2023-07-25T04:59:33.000Z</published>
-    <summary>介绍互联网运营的主要岗位分类，包括内容运营、用户运营、活动运营、产品运营、社群运营、新媒体运营、短视频运营、SEO/SEM运营、电商运营等，说明各岗位职责与工作内容。</summary>
-    <title>运营岗位的种类有哪些？互联网运营岗位分类与职责详解</title>
-    <updated>2026-04-11T19:48:42.655Z</updated>
   </entry>
 </feed>
