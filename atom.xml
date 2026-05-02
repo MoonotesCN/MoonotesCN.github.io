@@ -17,15 +17,15 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
-    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
     <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="变现模式" scheme="https://www.moonotes.cn/tags/%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
+    <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
+    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
     <category term="周度复盘" scheme="https://www.moonotes.cn/tags/%E5%91%A8%E5%BA%A6%E5%A4%8D%E7%9B%98/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="测验题" scheme="https://www.moonotes.cn/tags/%E6%B5%8B%E9%AA%8C%E9%A2%98/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
     <id>https://www.moonotes.cn/articles/3cbb1228.html</id>
     <link href="https://www.moonotes.cn/articles/3cbb1228.html"/>
@@ -84,10 +84,10 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
-    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="Aha时刻" scheme="https://www.moonotes.cn/tags/Aha%E6%97%B6%E5%88%BB/"/>
     <category term="新手引导" scheme="https://www.moonotes.cn/tags/%E6%96%B0%E6%89%8B%E5%BC%95%E5%AF%BC/"/>
     <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="激活漏斗" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E6%BC%8F%E6%96%97/"/>
     <category term="激励体系" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E5%8A%B1%E4%BD%93%E7%B3%BB/"/>
     <category term="首触门槛" scheme="https://www.moonotes.cn/tags/%E9%A6%96%E8%A7%A6%E9%97%A8%E6%A7%9B/"/>
@@ -105,8 +105,8 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
     <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
+    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
     <category term="渠道运营" scheme="https://www.moonotes.cn/tags/%E6%B8%A0%E9%81%93%E8%BF%90%E8%90%A5/"/>
     <category term="付费获客" scheme="https://www.moonotes.cn/tags/%E4%BB%98%E8%B4%B9%E8%8E%B7%E5%AE%A2/"/>
     <category term="内容获客" scheme="https://www.moonotes.cn/tags/%E5%86%85%E5%AE%B9%E8%8E%B7%E5%AE%A2/"/>
@@ -127,9 +127,9 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
+    <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="实验设计" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E9%AA%8C%E8%AE%BE%E8%AE%A1/"/>
     <category term="病毒式传播" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E4%BC%A0%E6%92%AD/"/>
     <category term="裂变活动" scheme="https://www.moonotes.cn/tags/%E8%A3%82%E5%8F%98%E6%B4%BB%E5%8A%A8/"/>
@@ -172,9 +172,9 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="运营知识" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%9F%A5%E8%AF%86/"/>
+    <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="周度复盘" scheme="https://www.moonotes.cn/tags/%E5%91%A8%E5%BA%A6%E5%A4%8D%E7%9B%98/"/>
     <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
-    <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="运营测验" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%B5%8B%E9%AA%8C/"/>
     <category term="知识回顾" scheme="https://www.moonotes.cn/tags/%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
     <category term="学习总结" scheme="https://www.moonotes.cn/tags/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
@@ -215,15 +215,15 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
     <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
-    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
+    <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="行业案例" scheme="https://www.moonotes.cn/tags/%E8%A1%8C%E4%B8%9A%E6%A1%88%E4%BE%8B/"/>
     <category term="病毒式增长" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E5%A2%9E%E9%95%BF/"/>
     <category term="Dropbox" scheme="https://www.moonotes.cn/tags/Dropbox/"/>
     <category term="美团" scheme="https://www.moonotes.cn/tags/%E7%BE%8E%E5%9B%A2/"/>
     <category term="抖音" scheme="https://www.moonotes.cn/tags/%E6%8A%96%E9%9F%B3/"/>
+    <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="运营案例" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A1%88%E4%BE%8B/"/>
     <id>https://www.moonotes.cn/articles/a4e7d353.html</id>
     <link href="https://www.moonotes.cn/articles/a4e7d353.html"/>
@@ -259,10 +259,10 @@
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户管理" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <id>https://www.moonotes.cn/articles/bc57d508.html</id>
     <link href="https://www.moonotes.cn/articles/bc57d508.html"/>
     <published>2026-04-09T16:22:46.000Z</published>
@@ -275,8 +275,8 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
+    <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
     <category term="运营模型" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A8%A1%E5%9E%8B/"/>
     <category term="海盗指标" scheme="https://www.moonotes.cn/tags/%E6%B5%B7%E7%9B%97%E6%8C%87%E6%A0%87/"/>
     <id>https://www.moonotes.cn/articles/f752cf82.html</id>
@@ -292,8 +292,8 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="运营体系" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
+    <category term="运营体系" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="精细化运营" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5/"/>
     <id>https://www.moonotes.cn/articles/b13ee704.html</id>
     <link href="https://www.moonotes.cn/articles/b13ee704.html"/>
@@ -316,7 +316,7 @@
     <published>2025-08-04T11:43:08.000Z</published>
     <summary>深度分析乐刻运动在《全民健身计划》背景下的核心机遇（政策红利、技术赋能、消费升级）、潜在危机（模式同质化、规模化管理困境、人才生态博弈）及破局策略，为健身行业从业者提供参考。</summary>
     <title>乐刻运动在《全民健身计划》中的机遇与危机：政策红利下的挑战与破局策略</title>
-    <updated>2026-04-07T17:18:02.366Z</updated>
+    <updated>2026-05-02T15:47:49.700Z</updated>
   </entry>
   <entry>
     <author>
@@ -333,7 +333,7 @@
     <published>2025-02-10T20:02:06.000Z</published>
     <summary>对比Google SEO与百度SEO的工作原理、算法逻辑、关键词策略、技术优化重点及垃圾内容政策，帮助SEO从业者掌握双引擎优化的核心差异与实战策略。</summary>
     <title>Google SEO与百度SEO学习指南：双引擎优化的核心差异与实战策略</title>
-    <updated>2026-04-09T17:28:54.118Z</updated>
+    <updated>2026-05-02T15:49:47.891Z</updated>
   </entry>
   <entry>
     <author>
@@ -381,7 +381,7 @@
     <published>2025-01-19T12:24:49.000Z</published>
     <summary>详细的hexo博客搭建与阿里云服务器部署教程，包括环境配置、主题安装、SSH密钥设置、Git仓库配置、Nginx部署等完整步骤，适合新手从零开始搭建个人博客。</summary>
     <title>利用hexo进行博客搭建并部署到阿里云服务器(保姆级教程)</title>
-    <updated>2026-04-22T14:59:24.281Z</updated>
+    <updated>2026-05-02T15:48:21.218Z</updated>
   </entry>
   <entry>
     <author>
