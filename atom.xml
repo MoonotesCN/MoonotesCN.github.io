@@ -17,10 +17,10 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
     <category term="用户分层" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%88%86%E5%B1%82/"/>
     <category term="RFM模型" scheme="https://www.moonotes.cn/tags/RFM%E6%A8%A1%E5%9E%8B/"/>
     <category term="精细化运营" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5/"/>
+    <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
     <category term="用户行为" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA/"/>
     <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
@@ -40,10 +40,10 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
-    <category term="变现模式" scheme="https://www.moonotes.cn/tags/%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F/"/>
-    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
+    <category term="变现模式" scheme="https://www.moonotes.cn/tags/%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F/"/>
     <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
     <category term="周度复盘" scheme="https://www.moonotes.cn/tags/%E5%91%A8%E5%BA%A6%E5%A4%8D%E7%9B%98/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
@@ -83,6 +83,7 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
     <category term="留存分析" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E5%88%86%E6%9E%90/"/>
@@ -92,7 +93,6 @@
     <category term="留存曲线" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9B%B2%E7%BA%BF/"/>
     <category term="同期群分析" scheme="https://www.moonotes.cn/tags/%E5%90%8C%E6%9C%9F%E7%BE%A4%E5%88%86%E6%9E%90/"/>
     <category term="用户粘性" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%B2%98%E6%80%A7/"/>
-    <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
     <id>https://www.moonotes.cn/articles/c5b5ef60.html</id>
     <link href="https://www.moonotes.cn/articles/c5b5ef60.html"/>
     <published>2026-05-01T16:02:53.000Z</published>
@@ -150,8 +150,8 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
-    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
+    <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="实验设计" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E9%AA%8C%E8%AE%BE%E8%AE%A1/"/>
     <category term="病毒式传播" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E4%BC%A0%E6%92%AD/"/>
     <category term="裂变活动" scheme="https://www.moonotes.cn/tags/%E8%A3%82%E5%8F%98%E6%B4%BB%E5%8A%A8/"/>
@@ -172,9 +172,9 @@
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
+    <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
-    <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
     <category term="标签体系" scheme="https://www.moonotes.cn/tags/%E6%A0%87%E7%AD%BE%E4%BD%93%E7%B3%BB/"/>
     <category term="精准营销" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E5%87%86%E8%90%A5%E9%94%80/"/>
     <category term="产品迭代" scheme="https://www.moonotes.cn/tags/%E4%BA%A7%E5%93%81%E8%BF%AD%E4%BB%A3/"/>
@@ -237,10 +237,10 @@
       <name>Wong MooN</name>
     </author>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
-    <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
     <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
+    <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
+    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
     <category term="行业案例" scheme="https://www.moonotes.cn/tags/%E8%A1%8C%E4%B8%9A%E6%A1%88%E4%BE%8B/"/>
     <category term="病毒式增长" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E5%A2%9E%E9%95%BF/"/>
     <category term="Dropbox" scheme="https://www.moonotes.cn/tags/Dropbox/"/>
@@ -280,17 +280,17 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="用户管理" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <id>https://www.moonotes.cn/articles/bc57d508.html</id>
     <link href="https://www.moonotes.cn/articles/bc57d508.html"/>
     <published>2026-04-09T16:22:46.000Z</published>
     <summary>本文是&quot;从零开始学运营&quot;系列的第3天内容，详细介绍用户生命周期管理的基础知识，包括生命周期阶段划分、各阶段运营策略和关键指标分析，帮助运营人员建立系统化的用户管理思维。</summary>
     <title>从零开始学运营 | Day 3：用户生命周期管理基础</title>
-    <updated>2026-05-03T18:08:38.027Z</updated>
+    <updated>2026-05-03T18:29:36.843Z</updated>
   </entry>
   <entry>
     <author>
