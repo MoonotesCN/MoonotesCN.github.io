@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.moonotes.cn/sitemap.xml
+Sitemap: https://www.moonotes.cn/baidusitemap.xml
