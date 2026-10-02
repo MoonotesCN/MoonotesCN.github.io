@@ -40,9 +40,9 @@
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="同期群分析" scheme="https://www.moonotes.cn/tags/%E5%90%8C%E6%9C%9F%E7%BE%A4%E5%88%86%E6%9E%90/"/>
-    <category term="用户行为" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA/"/>
-    <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
+    <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
+    <category term="用户行为" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA/"/>
     <category term="数据分析" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
     <category term="埋点设计" scheme="https://www.moonotes.cn/tags/%E5%9F%8B%E7%82%B9%E8%AE%BE%E8%AE%A1/"/>
     <category term="指标体系" scheme="https://www.moonotes.cn/tags/%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB/"/>
@@ -62,11 +62,11 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
     <category term="问卷设计" scheme="https://www.moonotes.cn/tags/%E9%97%AE%E5%8D%B7%E8%AE%BE%E8%AE%A1/"/>
     <category term="用户洞察" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%B4%9E%E5%AF%9F/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
+    <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户需求" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82/"/>
     <category term="调研方法" scheme="https://www.moonotes.cn/tags/%E8%B0%83%E7%A0%94%E6%96%B9%E6%B3%95/"/>
     <category term="问卷技巧" scheme="https://www.moonotes.cn/tags/%E9%97%AE%E5%8D%B7%E6%8A%80%E5%B7%A7/"/>
@@ -86,15 +86,15 @@
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户价值" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC/"/>
+    <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
+    <category term="用户行为" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="用户分层" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%88%86%E5%B1%82/"/>
     <category term="RFM模型" scheme="https://www.moonotes.cn/tags/RFM%E6%A8%A1%E5%9E%8B/"/>
     <category term="精细化运营" scheme="https://www.moonotes.cn/tags/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5/"/>
-    <category term="用户行为" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA/"/>
     <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
     <category term="分层策略" scheme="https://www.moonotes.cn/tags/%E5%88%86%E5%B1%82%E7%AD%96%E7%95%A5/"/>
-    <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <id>https://www.moonotes.cn/articles/5e662d90.html</id>
     <link href="https://www.moonotes.cn/articles/5e662d90.html"/>
     <published>2026-05-03T17:51:24.000Z</published>
@@ -108,15 +108,15 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
+    <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="变现模式" scheme="https://www.moonotes.cn/tags/%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
-    <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
+    <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
     <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
     <category term="周度复盘" scheme="https://www.moonotes.cn/tags/%E5%91%A8%E5%BA%A6%E5%A4%8D%E7%9B%98/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="测验题" scheme="https://www.moonotes.cn/tags/%E6%B5%8B%E9%AA%8C%E9%A2%98/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="运营学习" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%AD%A6%E4%B9%A0/"/>
     <id>https://www.moonotes.cn/articles/3cbb1228.html</id>
     <link href="https://www.moonotes.cn/articles/3cbb1228.html"/>
@@ -177,16 +177,16 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
-    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="用户激活" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB/"/>
     <category term="Aha时刻" scheme="https://www.moonotes.cn/tags/Aha%E6%97%B6%E5%88%BB/"/>
     <category term="新手引导" scheme="https://www.moonotes.cn/tags/%E6%96%B0%E6%89%8B%E5%BC%95%E5%AF%BC/"/>
     <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
+    <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
     <category term="激活漏斗" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E6%BC%8F%E6%96%97/"/>
     <category term="激励体系" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E5%8A%B1%E4%BD%93%E7%B3%BB/"/>
     <category term="首触门槛" scheme="https://www.moonotes.cn/tags/%E9%A6%96%E8%A7%A6%E9%97%A8%E6%A7%9B/"/>
     <category term="价值交付" scheme="https://www.moonotes.cn/tags/%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98/"/>
+    <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
     <id>https://www.moonotes.cn/articles/b963ed43.html</id>
     <link href="https://www.moonotes.cn/articles/b963ed43.html"/>
     <published>2026-04-28T16:01:39.000Z</published>
@@ -200,6 +200,7 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
     <category term="获客策略" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2%E7%AD%96%E7%95%A5/"/>
     <category term="渠道运营" scheme="https://www.moonotes.cn/tags/%E6%B8%A0%E9%81%93%E8%BF%90%E8%90%A5/"/>
     <category term="付费获客" scheme="https://www.moonotes.cn/tags/%E4%BB%98%E8%B4%B9%E8%8E%B7%E5%AE%A2/"/>
@@ -209,7 +210,6 @@
     <category term="流量成本" scheme="https://www.moonotes.cn/tags/%E6%B5%81%E9%87%8F%E6%88%90%E6%9C%AC/"/>
     <category term="渠道选择" scheme="https://www.moonotes.cn/tags/%E6%B8%A0%E9%81%93%E9%80%89%E6%8B%A9/"/>
     <category term="获客ROI" scheme="https://www.moonotes.cn/tags/%E8%8E%B7%E5%AE%A2ROI/"/>
-    <category term="增长模型" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E6%A8%A1%E5%9E%8B/"/>
     <id>https://www.moonotes.cn/articles/fd853b41.html</id>
     <link href="https://www.moonotes.cn/articles/fd853b41.html"/>
     <published>2026-04-27T15:10:37.000Z</published>
@@ -223,9 +223,9 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="实验设计" scheme="https://www.moonotes.cn/tags/%E5%AE%9E%E9%AA%8C%E8%AE%BE%E8%AE%A1/"/>
     <category term="病毒式传播" scheme="https://www.moonotes.cn/tags/%E7%97%85%E6%AF%92%E5%BC%8F%E4%BC%A0%E6%92%AD/"/>
     <category term="裂变活动" scheme="https://www.moonotes.cn/tags/%E8%A3%82%E5%8F%98%E6%B4%BB%E5%8A%A8/"/>
@@ -246,9 +246,9 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
     <category term="用户调研" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94/"/>
     <category term="数据驱动" scheme="https://www.moonotes.cn/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/"/>
+    <category term="用户画像" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/"/>
     <category term="生命周期运营" scheme="https://www.moonotes.cn/tags/%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E8%BF%90%E8%90%A5/"/>
     <category term="运营决策" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E5%86%B3%E7%AD%96/"/>
     <category term="标签体系" scheme="https://www.moonotes.cn/tags/%E6%A0%87%E7%AD%BE%E4%BD%93%E7%B3%BB/"/>
@@ -315,8 +315,8 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
     <category term="激活策略" scheme="https://www.moonotes.cn/tags/%E6%BF%80%E6%B4%BB%E7%AD%96%E7%95%A5/"/>
+    <category term="留存机制" scheme="https://www.moonotes.cn/tags/%E7%95%99%E5%AD%98%E6%9C%BA%E5%88%B6/"/>
     <category term="增长黑客" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
     <category term="增长策略" scheme="https://www.moonotes.cn/tags/%E5%A2%9E%E9%95%BF%E7%AD%96%E7%95%A5/"/>
     <category term="行业案例" scheme="https://www.moonotes.cn/tags/%E8%A1%8C%E4%B8%9A%E6%A1%88%E4%BE%8B/"/>
@@ -360,9 +360,9 @@
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
     <category term="用户留存" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%95%99%E5%AD%98/"/>
-    <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="运营策略" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5/"/>
     <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
+    <category term="用户生命周期" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     <category term="用户管理" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/"/>
     <id>https://www.moonotes.cn/articles/bc57d508.html</id>
     <link href="https://www.moonotes.cn/articles/bc57d508.html"/>
@@ -377,8 +377,8 @@
     </author>
     <category term="运营体系" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/"/>
     <category term="用户运营" scheme="https://www.moonotes.cn/categories/%E8%BF%90%E8%90%A5%E4%BD%93%E7%B3%BB/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
-    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="AARRR模型" scheme="https://www.moonotes.cn/tags/AARRR%E6%A8%A1%E5%9E%8B/"/>
+    <category term="用户增长" scheme="https://www.moonotes.cn/tags/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF/"/>
     <category term="运营模型" scheme="https://www.moonotes.cn/tags/%E8%BF%90%E8%90%A5%E6%A8%A1%E5%9E%8B/"/>
     <category term="海盗指标" scheme="https://www.moonotes.cn/tags/%E6%B5%B7%E7%9B%97%E6%8C%87%E6%A0%87/"/>
     <id>https://www.moonotes.cn/articles/f752cf82.html</id>
